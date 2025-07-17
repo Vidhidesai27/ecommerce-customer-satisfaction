@@ -1,4 +1,9 @@
 # 🛍️ E-commerce Customer Satisfaction Analysis (SPSS)
+![SPSS](https://img.shields.io/badge/Tool-SPSS-blue)
+![Regression](https://img.shields.io/badge/Method-Logistic%20Regression-orange)
+![Survey Data](https://img.shields.io/badge/Data-Survey%20Based-lightgrey)
+![Focus](https://img.shields.io/badge/Focus-Marketing%20Analytics-yellowgreen)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 This project analyzes customer satisfaction on an e-commerce platform using survey data from 3,900 users. Logistic regression was conducted in IBM SPSS to identify the most significant factors influencing whether a customer is satisfied based on demographics, purchase behavior, and service-related variables.
 
